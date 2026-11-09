@@ -1,0 +1,6 @@
+18|Book|THE GOAT|VK|True
+45|Book|THE HITMAN|RS|True
+2026|Magazine|WE FOUR|1|True
+33|Book|KUNG FU PANDYA|HP33|True
+2002|Book|Alter Carbon|Richard Morgan|True
+1|Book|Modern Perfect|KLR|True
